@@ -2,7 +2,7 @@
 ### AUTHORS:
 Nick A. Gulotta1, Patrick H. Wightman1, Nicholas W. Bakner2, Bret A. Collier3, Michael J. Chamberlain1
 ### AUTHORS AFFILIATIONS
-¹ Warnell School of Forestry and Natural Resources, University of Georgia, Athens, Georgia, USA 
+1 Warnell School of Forestry and Natural Resources, University of Georgia, Athens, Georgia, USA 
 2 Department of Entomology and Wildlife Ecology, University of Delaware, Newark, DE 19713, USA.
 3 School of Renewable Natural Resources, Louisiana State University, Baton Rouge, LA 70803
 
